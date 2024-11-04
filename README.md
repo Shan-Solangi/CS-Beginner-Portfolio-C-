@@ -2,8 +2,8 @@ C++
 
 My first project was developed during my first semesters as part of my Computer Science degree. As I progress in my studies, I will be uploading more projects. Continuous learning and improvement are key to my journey, and I welcome constructive feedback to help identify any mistakes and areas where I can enhance my skills.
 
-Hospital Management System
-This is my first project, created during my 1st semester of my Computer Science degree. The project is a Student Management System developed in C++. The system allows you to:
+Hospital Management System:
+This is my first project, created during my 1st semester of my Computer Science degree. The project is a Hospital Management System developed in C++. The system allows you to:
 
 Add, view, and delete patient records.
 Add, view, and delete patient diagnosis records.
